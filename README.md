@@ -9,7 +9,7 @@ The application is designed around a dynamic configuration model rather than har
 ## Live Demo
 
 ### Frontend
-https://YOUR-NETLIFY-URL.netlify.app
+https://crm-erp-1.onrender.com/
 
 ### Backend API
 https://crm-erp-k0nm.onrender.com
